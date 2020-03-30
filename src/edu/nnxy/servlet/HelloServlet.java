@@ -9,6 +9,7 @@ import java.io.IOException;
 
 @WebServlet(name = "HelloServlet")
 public class HelloServlet extends HttpServlet {
+    //请求
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
     }
