@@ -1,6 +1,6 @@
 public class Book{
   String name;
-  floaat price;
+  float price;
 
 
 }
